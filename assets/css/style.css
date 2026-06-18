@@ -46,6 +46,7 @@ main > img {
 
 main > .name {
   font-size: 1.8rem;
+  font-weight: bold;
   color: white;
   margin-bottom: 0;
   line-height: 50px;
@@ -54,6 +55,7 @@ main > .name {
 main > .city {
   color: var(--green);
   margin-top: 0;
+  font-weight: bold;
 }
 
 main > .description {
@@ -74,6 +76,7 @@ main ul li {
   border-radius: 8px;
   cursor: pointer;
   border: 1px solid rgba(255, 255, 255, 0);
+  font-weight: bold;
   transition: background-color 0.5s ease;
 }
 
