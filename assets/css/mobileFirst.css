@@ -1,0 +1,11 @@
+@media only screen and (max-width: 450px) {
+  main {
+    transform: scale(0.75);
+  }
+}
+
+@media only screen and (max-width: 380px) {
+  main {
+    width: 90%;
+  }
+}
